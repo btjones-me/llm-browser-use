@@ -1,7 +1,7 @@
 [project]
 name = "browser-use-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Demo project of llm-browser-use"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
